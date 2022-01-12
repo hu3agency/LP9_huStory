@@ -1,6 +1,6 @@
 # LP9_huStory
 # ourStory Protocol
-The School of Bitcoin Open Curriculum is based on the open source content framework developed by hu3agency. By completing the steps below, students will create a nine section learning strategy set to a playlist of nine of their favorite songs. Each section takes in inputs from the curriculum creator to generate a hash value.
+The ourStory Protocol is an open source content framework developed by hu3agency. By completing the steps below, students will create a nine section learning strategy set to a playlist of nine of their favorite songs. Each section takes in inputs from the curriculum creator to generate a hash value.
 
 ## b0mission
 With b0mission, you use music and book quotes to define the foundation of the language & mission for your open source curriculum. The b0mission hash function takes four variables: `gr0v0song`, `gr0v1ego`, `gr0v2biomimicry`, and `gr0v3willpower`.
