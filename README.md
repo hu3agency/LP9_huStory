@@ -1,9 +1,18 @@
-# LP9_huStory
+BAO: ourStory_everythingIsMusic | BO: huStory_areWeRight | LongPlay: lp0_polymathProcess
+#### DAO: ep0_2020Vision
 # ourStory Protocol
-The ourStory Protocol is an open source content framework developed by hu3agency. By completing the steps below, students will create a nine section learning strategy set to a playlist of nine of their favorite songs. Each section takes in inputs from the curriculum creator to generate a hash value.
+The Polymath Protocol is an open source heart-brain training framework for creating an ourStory game. Below are the steps documenting how to create and contribute to ep0_2020Vision.
 
 ## b0mission
 With b0mission, you use music and book quotes to define the foundation of the language & mission for your open source curriculum. The b0mission hash function takes four variables: `gr0v0song`, `gr0v1ego`, `gr0v2biomimicry`, and `gr0v3willpower`.
+
+### gr0v0ego
+Can you think of any __challenges__ that The Planet is experiencing right now? Name one that you want to explore as you create your game.
+
+```
+polarization
+```
+
 ```
 let b0mission = SHA256(gr0ourSource);
 
