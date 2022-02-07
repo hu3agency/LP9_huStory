@@ -1,31 +1,54 @@
 BAO: ourStory_everythingIsMusic | BO: huStory_areWeRight | LongPlay: lp0_polymathProcess
-#### DAO: ep0_2020Vision
-# ourStory Protocol
-The Polymath Protocol is an open source heart-brain training framework for creating an ourStory game. Below are the steps documenting how to create and contribute to ep0_2020Vision.
+### DAO: ep0_2020Vision
+## b9journal
+
+### The polymathProtocol
+
+The Polymath Protocol is an open source heart-brain training framework for creating an ourStory game. Below are the steps documenting how to create and contribute to each of the 9 dimensions of ep0_2020Vision.
 
 ## b0mission
-With b0mission, you use music and book quotes to define the foundation of the language & mission for your open source curriculum. The b0mission hash function takes four variables: `gr0v0song`, `gr0v1ego`, `gr0v2biomimicry`, and `gr0v3willpower`.
 
-### gr0v0ego
+### gr0v0ego input
 Can you think of any __challenges__ that The Planet is experiencing right now? Name one that you want to explore as you create your game.
 
 ```
 polarization
 ```
 
-```
-let b0mission = SHA256(gr0ourSource);
+What do you think is the __egoic cause__ of the challenge that you chose to focus on?
 
-let gr0ourSource = {
-  longPlay:        "LP_NAME",
-  epicPlaylist:    "EP_Name",
-  gr0v0song:       "SONG_NAME by ARTIST",
-  gr0v1ego:        "BOOK_TITLE by AUTHOR",
-  gr0v2biomimicry: "BOOK_TITLE by AUTHOR",
-  gr0v3willpower:  "BOOK_TITLE by AUTHOR"
+```
+fear
+```
+
+What global institution will you use to explore our collective challenge? (If this is your EP for this LP, language should be the default)
+
+```
+language
+```
+
+What book will we learn from to deepen our understanding of humanitys collective ego?
+
+```
+A New Earth by Eckhart Tolle
+```
+
+### gr0v0ego output
+
+Our language institution is allowing fear to contribute to the universal challenge of polarization. ep0_lessonPlan by lp0_polymathProcess will learn from A New Earth by Eckhart Tolle to help deepen our understanding of our collective ego.
+
+```
+let gr0v0ego = {
+    challenge:     "polarization",
+    egoic_cause:   "fear",
+    institution:   “language”,
+    bookTitle:     "a new earth",
+    bookAuthor:    "eckhart tolle"
 };
-
 ```
+
+
+
 ## b1community
 With b1community, you use music and memes to define what the community of students who take this curriculum will create together. The b1community hash function takes four variables: `gr1v0song`, `gr1v1decentralization`, `gr1v2space`, and `gr1v3time`.
 ```
