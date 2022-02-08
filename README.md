@@ -3,7 +3,7 @@
 
 ### The polymathProtocol
 
-The Polymath Protocol is an open source framework for creating ourStory heart-breain training games. Below are the steps documenting how to create and contribute to each of the 9 dimensions of ep0_2020Vision.
+The Polymath Protocol is an open source framework for creating ourStory heart-brain training games. Below are the steps documenting how to create and contribute to each of the 9 dimensions of ep0_2020Vision.
 
 # b0mission
 
