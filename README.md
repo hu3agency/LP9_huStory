@@ -1,14 +1,61 @@
-BAO: ourStory_everythingIsMusic | BO: huStory_areWeRight | LongPlay: lp0_polymathProcess
-### DAO: ep0_2020Vision
-## b9journal
+#### bMB: ourStory_everythingIsMusic | BAO: huStory_areWeRight | longPlay: lp0_polymathProcess
+# epicPlaylist (DAO): ep0_2020Vision
 
 ### The polymathProtocol
 
 The Polymath Protocol is an open source heart-brain training framework for creating an ourStory game. Below are the steps documenting how to create and contribute to each of the 9 dimensions of ep0_2020Vision.
 
-## b0mission
+# b0mission
 
-### gr0v0ego input
+### gr0v0ego
+
+Our __language__ institution is allowing __fear__ to contribute to the universal challenge of __polarization__. ep0_lessonPlan by lp0_polymathProcess will learn from __A New Earth__ by __Eckhart Tolle__ to help deepen our understanding of our collective ego.
+
+### gr0v1biomimicry
+
+__Water__ use __polarization__ to create __strong bonds__. ep0_lessonPlan by lp0_polymathProcess will learn from __The Tao Te Ching__ by __Lao Tzu__ to explore biomimetic perspectives for our challenges.
+
+### gr0v2willpower
+
+lp0_polymathProcess is developing an open source game that learns from __water__ so we can create __strong bonds__ with __polarization__. We will learn from __The Polymath__ by __Waqas Ahmed__ to help define how we operate.
+
+### gr0v3song
+
+__0.00__ by __Childish Gambino__ will introduce ep0_lessonPlan’s mission.
+
+## b0missions Proof-of-Work
+Click Here to view the values that represent b0mission for ep0_lessonPlan.
+
+# b1community
+
+### gr1v0decentralization
+
+polymathProcess is helping to decentralize the __Human Resources__ industry by contributing to an __onboarding protocol__ inspired by __Proof-of-Work Systems__. We will use __Substrate (Parity)__ to develop the idea.
+
+
+Our __language__ institution is allowing __fear__ to contribute to the universal challenge of __polarization__. ep0_lessonPlan by lp0_polymathProcess will learn from __A New Earth__ by __Eckhart Tolle__ to help deepen our understanding of our collective ego.
+
+### gr1v1space
+
+__Water__ use __polarization__ to create __strong bonds__. ep0_lessonPlan by lp0_polymathProcess will learn from __The Tao Te Ching__ by __Lao Tzu__ to explore biomimetic perspectives for our challenges.
+
+### gr1v2time
+
+lp0_polymathProcess is developing an open source game that learns from __water__ so we can create __strong bonds__ with __polarization__. We will learn from __The Polymath__ by __Waqas Ahmed__ to help define how we operate.
+
+### gr1v3song
+
+__Mirage__ by __Toro y Moi__ will introduce ep0_lessonPlan's community.
+
+### b0mission Proof-of-Perspective
+Click Here to view the values that represent b0mission for ep0_lessonPlan.
+
+
+
+
+
+
+## gr0v0ego input
 Can you think of any __challenges__ that The Planet is experiencing right now? Name one that you want to explore as you create your game.
 
 ```
@@ -33,19 +80,19 @@ What book will we learn from to deepen our understanding of humanitys collective
 A New Earth by Eckhart Tolle
 ```
 
-### gr0v0ego output
-
-Our language institution is allowing fear to contribute to the universal challenge of polarization. ep0_lessonPlan by lp0_polymathProcess will learn from A New Earth by Eckhart Tolle to help deepen our understanding of our collective ego.
+Input Summary:
 
 ```
 let gr0v0ego = {
     challenge:     "polarization",
-    egoic_cause:   "fear",
+    egoicCause:    "fear",
     institution:   “language”,
     bookTitle:     "a new earth",
     bookAuthor:    "eckhart tolle"
 };
 ```
+
+
 
 
 
