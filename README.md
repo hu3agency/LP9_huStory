@@ -48,7 +48,7 @@ Below is the roadmap for ep0_lessonPlan's community for __groundwater recharge__
 * b6story: Storyboard for Open Source Mythology Deployed [YYYY/MM/DD]
 * b7learn: Documentation Deployed [YYYY/MM/DD]
 * b8play: Community Game Proposal Deployed [YYYY/MM/DD]
-* b9journal: epicPlaylist Process Deployed [YYYY/MM/DD]
+* b9journal: epicPlaylist Process Tracking [Ongoing]
 
 ### gr1v3song
 
